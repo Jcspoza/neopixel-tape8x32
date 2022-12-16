@@ -32,5 +32,5 @@ To be added
 
 
 ## Log file
-To be added
+[log file whit last actions](../log.md)
 
