@@ -9,4 +9,4 @@ MCU Nano n3 + tira 59 led 5volt con resistencia 470 ohm ( cutre) , (es la que te
 
 | Date | Date Step | Step trarget | Step actions & Result | Step Pendings | Step Comments & Links |
 :-: | :-: | :-: | :-: | :-: | :-: |
-| 16-12-2022 | 1 | basic test with 59 neopixel strip | OK |  no  |  Bad behaviour when bright is 50 - change to 25, it must be a supply issue right = 'strip.setBrightness(25)'   |
+| 16-12-2022 | 1 | basic test with 59 neopixel strip | OK |  no  |  Bright not too high see wiki  |
