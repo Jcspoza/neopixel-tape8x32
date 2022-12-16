@@ -32,5 +32,5 @@ To be added
 
 
 ## Log file
-[log file whit last actions](../log.md)
+[log file whit last actions](log.md)
 
