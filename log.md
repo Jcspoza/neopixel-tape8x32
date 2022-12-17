@@ -15,6 +15,5 @@ ESP32 dev kitc v4 + tira 59 led 5volt con resistencia 470 ohm ( cutre) , (es la 
 
 | Date | Date Step | Step trarget | Step actions & Result | Step Pendings | Step Comments & Links |
 :-: | :-: | :-: | :-: | :-: | :-: |
-| 16-12-2022 | 1 | basic test with 59 neopixel strip | OK |  no  |  Bright not too high see wiki  |
-:-: | :-: | :-: | :-: | :-: | :-: |
-| 17-12-2022 | 1 | basic test with 59 neopixel strip in 3.3 volt mcu| OK |  no  |  strandtest pin 5, bright 25, mcu=esp32 dev kitc v4  |
+| 16-12-2022 | 1 | basic test with 59 neopixel strip | OK |  no  |  Arduino IDE, Bright not too high see wiki  |
+| 17-12-2022 | 1 | basic test with 59 neopixel strip in 3.3 volt mcu| OK |  no  |  Arduino IDE, strandtest pin 5, bright 25, mcu=esp32 dev kitc v4  |
