@@ -10,10 +10,14 @@ Study & Test with a strip of 8x32 neopixel matrix
 3. Dive in neomatrix library
 
 ## 1st step Tutorials
+### Arduino
 1. [Prometec neopixel begining spanish tutorial](https://www.prometec.net/leds-rgb-neopixel/)
 2. [Prometec neopixel matrix begining spanish tutorial](https://www.prometec.net/paneles-neopixel-flexibles/)
 3. [Adafruit arduino neopixel library How to use it](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use)
 4. [Adafruit arduino neopixel Matrix  library How to use it](https://learn.adafruit.com/adafruit-neopixel-uberguide/neopixel-matrices)
+
+### Micropython
+1. [Randomnerd - Micropython WS2812B 1st steps tutorial](https://randomnerdtutorials.com/micropython-ws2812b-addressable-rgb-leds-neopixel-esp32-esp8266/)
 
 ## HW description
 ### NeoPixel matrix
