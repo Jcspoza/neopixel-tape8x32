@@ -24,4 +24,4 @@ ESP32WK_l = ESP32 WIFI KIT WITH OLED DISPLAY + tira 59 led 5volt con resistencia
 |:----------:|:---------:|:-------------------------------------------------:|:---------:|:---------:|:---------------------:|:--------------:|:---------------------------------------------------------------:|
 | 16-12-2022 | 1         | basic test with 59 neopixel strip                 | Nano_l    | Arduino   | OK                    | no             | Arduino IDE, Bright not too high see wiki                       |
 | 17-12-2022 | 1         | basic test with 59 neopixel strip in 3.3 volt mcu | ESP32_l   | Arduino   | OK                    | no             | Arduino IDE, strandtest pin 5, bright 25, mcu=esp32 dev kitc v4 |
-| 18-12-2022 | 2         | basic test in micropython                         | ESP32WK_L | upython   | OK                    | test a rainbow | works well with 5 or 3.3 volt                                   |
+| 18-12-2022 | 1         | basic test in micropython                         | ESP32WK_L | upython   | OK                    | test a rainbow | works well with 5 or 3.3 volt                                   |
