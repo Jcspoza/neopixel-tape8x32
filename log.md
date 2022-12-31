@@ -20,7 +20,7 @@ ESP32_l = ESP32 dev kitc v4 + tira 59 led 5volt con resistencia 470 ohm ( cutre)
 
 ESP32WK_l = ESP32 WIFI KIT WITH OLED DISPLAY + tira 59 led 5volt con resistencia 470 ohm ( cutre) , (es la que tenia roto primer led) DI = GPI12, alimentación 5 volt
 
-| Date       | Date Step | Target                                            | mc prog   | HW config | Step actions & Result | Step Pending   | Step Comments & Links                                           |
+| Date       | Date Step | Target                                            |  HW config | mc prog  | Step actions & Result | Step Pending   | Step Comments & Links                                           |
 |:----------:|:---------:|:-------------------------------------------------:|:---------:|:---------:|:---------------------:|:--------------:|:---------------------------------------------------------------:|
 | 16-12-2022 | 1         | basic test with 59 neopixel strip                 | Nano_l    | Arduino   | OK                    | no             | Arduino IDE, Bright not too high see wiki                       |
 | 17-12-2022 | 1         | basic test with 59 neopixel strip in 3.3 volt mcu | ESP32_l   | Arduino   | OK                    | no             | Arduino IDE, strandtest pin 5, bright 25, mcu=esp32 dev kitc v4 |
